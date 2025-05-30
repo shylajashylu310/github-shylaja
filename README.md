@@ -1,2 +1,2 @@
 # github-shylaja
-this is git bash created for contributories and project works 
+This is a git bash created for contributories and project works. 
